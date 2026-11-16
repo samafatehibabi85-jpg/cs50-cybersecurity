@@ -1,0 +1,19 @@
+1. Forcing users to change passwords regularly is risky because people usually just add a number at the end or change one letter to remember it. This makes the password predictable and easier for hackers to guess.
+
+2. 2176782336
+
+3. The game shows that making a password secure makes it almost impossible for a human to remember. If it's easy to remember, it's easy for a computer to guess. We need a balance between security and usability.
+
+4. The top row is hard for humans because it's a random mix of letters and numbers. But computers are good at trying simple rules, like changing 'o' to '0'. Humans forget this, but computers guess it fast.
+
+5. The bottom row is hard for computers because it's four random words together. The computer has to check a massive dictionary. But humans can easily remember it by making a funny story or picture in their head.
+
+6. Credential stuffing is when hackers take a list of passwords that got leaked from one website, and try to use them on other websites. They do this because many people use the same password everywhere.
+
+7. A password or a PIN code. It becomes compromised if you share it with someone, if you write it down on a sticky note, or if the website you use it on gets hacked.
+
+8. A fingerprint or using Face ID on a phone.
+
+9. It is very hard to prevent because phishing attacks target the human, not the computer. Hackers make fake emails or websites that look exactly like the real ones, so it tricks people into giving their info away.
+
+10. Yes, the company should mandate it. Password managers help employees create strong, unique passwords for every account without needing to memorize them. This stops people from reusing passwords, which makes the whole company safer from attacks.

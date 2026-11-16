@@ -1,0 +1,10 @@
+1. A hack is when someone intentionally breaks into a system to steal data. A leak is usually just an accident, like a company accidentally leaving a server unsecured and exposing data without anyone actually hacking it.
+2. When you delete a file, the system only removes the pointer to where it's stored. The actual 1s and 0s are still on the hard drive until new data overwrites them.
+3. Normal computers use bits that are either 0 or 1. Quantum computers use qubits, which can be both 0 and 1 at the same time. This makes them super fast at processing huge amounts of data simultaneously.
+4. Key exchange (or Diffie-Hellman).
+5. A salt is random text added to a password before hashing it. This makes sure that even if two people have the exact same password, their hashes will look totally different.
+6. Microsoft, since they store the emails.
+7. You can check the digital signature using Charlie's public key. If it matches, it proves he used his private key to sign it.
+8. To check the file's integrity. You can hash the downloaded file yourself and compare it to their hash. If they match, the file wasn't corrupted or changed.
+9. A cipher can be reversed with a key to get the original text. A hash is one-way, so you can't reverse it back to the original input.
+10. Type I earned a free point! in the box below

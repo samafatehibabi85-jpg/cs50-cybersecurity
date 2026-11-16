@@ -1,0 +1,10 @@
+1. A supply chain or malware injection attack. Since millions of regular users download the software to help out, if hackers manage to slip malware into a software update, they could instantly turn all those computers into a massive botnet. Also, users could send fake data back to ruin the research.
+2. A zero-day attack is when hackers find a software flaw before the creators know about it. It's very dangerous because there is no patch or fix available yet, so even fully updated systems are vulnerable.
+3. It's basically checking a computer's digital doors (ports) to see which ones are open. It's a threat because hackers use it as a first step to map out a system and find weak spots or open services they can break into.
+4. They are tracking files that are really hard to delete, often stored by the browser itself (like HSTS). We usually get them just by visiting websites. They are a threat to privacy because they can track us even if we try to clear our normal cookies.
+5. A worm can spread by itself automatically across networks without any human action. A virus needs a human to click something or run an infected file to spread.
+6. Hiding the admin login page at a secret URL instead of using real authentication.
+7. SSH is mainly for securely logging into and controlling a specific remote computer via the command line. A VPN creates a full encrypted tunnel for all your internet traffic, making it seem like you are on a different network.
+8. It defines the standard format for public key certificates. It's what allows your browser to verify that a website is actually who it claims to be when using HTTPS.
+9. To find security holes in their systems before real hackers do. It helps them fix weaknesses and see how well their defenses actually work in a real-world scenario.
+10. 503 Service Unavailable

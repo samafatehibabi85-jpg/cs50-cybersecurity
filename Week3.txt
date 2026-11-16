@@ -1,0 +1,10 @@
+1. Reverse engineering to patch the binary, or using a keygen.
+2. XSS is when a hacker injects their own malicious script into a trusted website, so it runs on the victim's browser. CSRF is different; it tricks a user's browser into sending a fake request to a site where they are already logged in, like changing their password without them knowing.
+3. If we don't escape characters like < or ', the system might think they are part of the code instead of just normal text. This stops hackers from injecting malicious commands (like in SQL injection or XSS) into the input fields.
+4. It's a way to write a SQL query where the structure is defined first, and the user's input is added later as pure data. This prevents SQL injection because the database knows the input is just a value, not executable code.
+5. Because the client (user's browser) is controlled by the user. Hackers can easily bypass client-side checks by turning off JavaScript, modifying the HTML, or using tools to intercept and change the data before it gets sent. So, you always need server-side validation as the real defense.
+6. Even if regular users don't read the code, security researchers and developers do. This means bugs can be found and patched much faster by the community. With closed-source software, you just have to trust the company that it's secure.
+7. They both act as a central trusted source. They verify the software (usually with digital signatures) before delivering it to users. However, they also create a supply chain risk: if a hacker compromises the package manager or app store, they can push malware to millions of users at once.
+8. It defends against Cross-Site Scripting (XSS) by restricting script sources.
+9. When submitting a login form with a password, so the sensitive data isn't exposed in the URL.
+10. Heartbleed was a bug in OpenSSL that let attackers read the server's memory. Because OpenSSL is used by a massive amount of websites for encryption, attackers could steal private keys, passwords, and sensitive data without leaving any trace.
